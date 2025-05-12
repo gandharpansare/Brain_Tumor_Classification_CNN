@@ -17,7 +17,7 @@ This project implements a **Convolutional Neural Network (CNN)** to classify bra
 
 📂 Brain_Tumor_Classification_CNN
 
-│── Brain Tumors and Mental Health.docx # Project report
+│── Brain Tumors and Mental Health.docx # A brief report to decode the connection between brain tumor and mental health
 
 │── README.md # Project documentation
 

@@ -6,7 +6,7 @@ This project implements a **Convolutional Neural Network (CNN)** to classify bra
 ---
 
 ## **Dataset**  
-- **Source:** [Brain Tumor MRI Dataset on Kaggle](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)  
+- **Source:** [Brain Tumor MRI Dataset on Kaggle](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)  
 - **Size:** Approximately 7,000 MRI images  
 - **Classes:** Glioma Tumor, Meningioma Tumor, Pituitary Tumor, No Tumor  
 - **Format:** JPG images, organized into training and testing sets  
@@ -14,18 +14,18 @@ This project implements a **Convolutional Neural Network (CNN)** to classify bra
 ---
 
 ## **Project Files**  
-📂 braintumor-classification
+
+📂 Brain_Tumor_Classification_CNN
+
+│── Brain Tumors and Mental Health.docx # Project report
+
+│── README.md # Project documentation
 
 │── brain-tumor-classification-using-cnn.ipynb # Jupyter notebook for training and evaluation
 
 │── brain-tumor-classification-using-cnn.pdf # PDF export of the notebook
 
 │── brain-tumor-classification-using-cnn.html # HTML export of the notebook
-
-│── Brain_Tumors_and_Mental_Health.docx # A brief explaination about how brain tumor affects mental health
-
-│── README.md # Project documentation
-
 
 ---
 
